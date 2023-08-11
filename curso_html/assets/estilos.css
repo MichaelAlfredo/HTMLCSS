@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+h2 {
+  color: orangered;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+html,
+video {
+  scroll-behavior: smooth;
+}
+
+iframe {
+  width: 80%;
+  height: 400px;
+}
